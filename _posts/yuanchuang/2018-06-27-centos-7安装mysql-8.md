@@ -21,7 +21,7 @@ description: CentOS-7安装Mysql-8
 4.修改配置文件
 >sudo vi /etc/my.cnf
 
-5. 添加下面1行
+5.添加下面1行
 >[mysqld]
 innodb_buffer_pool_size=64M ##新添加
 
