@@ -1,8 +1,7 @@
 ---
-title: 技术分享
+
 layout: post
 ---
 
-## 博客平台
-
-本博客的源码托管在 [Github](https://github.com/laosijikaichele/laosijikaichele.github.io/) 上，如果有任何改进意见，欢迎讨论。
+# 博客源码托管在Gitub，如有改进意见，欢迎访问
+# [github.com/laosijikaichele](https://github.com/laosijikaichele/laosijikaichele.github.io/)
