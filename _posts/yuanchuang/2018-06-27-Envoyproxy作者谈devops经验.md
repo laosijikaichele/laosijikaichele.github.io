@@ -1,18 +1,18 @@
 ---
 layout: post
 title: Envoyproxy作者谈Devops经验
-category: 转载
+category: 原创
 tags: Java,Devops
 description: Envoyproxy作者谈Devops经验
 ---
 
 原文：https://medium.com/@mattklein123/the-human-scalability-of-devops-e36c37d3db6a
 
-主要观点：
-1.不要总想着招聘全能程序员，应该招聘某个领域的专才程序员。
-2.专业的运维人员仍然是必须的，他们关注更底层的运维：网络，安全，伸缩扩展，等等。
-3.开发人员也要参与日常的运维，但更侧重产品相关的运维。
-4.专业运维人员嵌入到各个开发项目组，作为开发组和运维组沟通的桥梁，同时对开发人员进行运维培训：比如服务接口文档的编写，最佳运维经验，等。
+主要观点：   
+1.不要总想着招聘全能程序员，应该招聘某个领域的专才程序员。   
+2.专业的运维人员仍然是必须的，他们关注更底层的运维：网络，安全，伸缩扩展，等等。   
+3.开发人员也要参与日常的运维，但更侧重产品相关的运维。   
+4.专业运维人员嵌入到各个开发项目组，作为开发组和运维组沟通的桥梁，同时对开发人员进行运维培训：比如服务接口文档的编写，最佳运维经验，等。   
 
 What is the right SRE model?
 Given the plethora of examples currently implemented in the industry, there is no right answer to this question and all models have their holes and resultant issues. I will outline what I think the sweet spot is based on my observations over the last 10 years:
