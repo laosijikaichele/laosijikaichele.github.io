@@ -4,7 +4,7 @@ title: OD的博客
 description: > # this means to ignore newlines until "baseurl:"
   OD的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://yansu.org # the base hostname & protocol for your site
+url: https://laosijikaichele.github.io # the base hostname & protocol for your site
 #rss_url: /pages/feed.xml
 author: OD
 
@@ -22,7 +22,7 @@ github: laosijikaichele
 
 # avatar and Favicon
 avatar: https://github.com/laosijikaichele/img-repo/blob/master/29225782.jpeg
-favicon: https://github.com/laosijikaichele/img-repo/blob/master/29225782.jpeg
+favicon: https://github.com/laosijikaichele/img-repo/blob/master/29225782%20(2).jpeg
 
 # disqus config
 disqus:
@@ -43,8 +43,8 @@ sass:
 
 # Jekyll Plugin
 # https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/
-gems:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-feed
+plugins:
+   - jekyll-sitemap
+   - jekyll-seo-tag
+   - jekyll-feed
 
