@@ -6,7 +6,7 @@ tags: Checked Exception,Java
 description: Checked Exception是好是坏？
 ---
 
-原文：https://zhuanlan.zhihu.com/p/38533850
+[原文](https://zhuanlan.zhihu.com/p/38533850)
 
 经典书籍《Clean Code》里提倡避免使用Checked Exception，给出的原因大致是：
 

@@ -7,7 +7,7 @@ description: CentOS-7安装Mysql-8
 ---
 
 
-参考：https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-centos-7
+[参考](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-centos-7)
 
 1.获取rpm
 >wget [https://dev.mysql.com/get/mysql80-community-release-el7-1.noarch.rpm](https://dev.mysql.com/get/mysql80-community-release-el7-1.noarch.rpm "https://dev.mysql.com/get/mysql80-community-release-el7-1.noarch.rpm")

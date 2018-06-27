@@ -6,7 +6,7 @@ tags: Java,Devops
 description: Envoyproxy作者谈Devops经验
 ---
 
-原文：https://medium.com/@mattklein123/the-human-scalability-of-devops-e36c37d3db6a
+[原文](https://medium.com/@mattklein123/the-human-scalability-of-devops-e36c37d3db6a)
 
 主要观点：   
 1.不要总想着招聘全能程序员，应该招聘某个领域的专才程序员。   
