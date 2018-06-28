@@ -2,7 +2,7 @@
 layout: post
 title: CentOS-7安装Mysql-8
 category: 原创
-tags: CentOS-7,ysql-8
+tags: CentOS-7,Mysql-8
 description: CentOS-7安装Mysql-8
 ---
 
