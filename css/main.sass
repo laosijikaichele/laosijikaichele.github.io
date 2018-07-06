@@ -15,11 +15,13 @@ $font: "lucida grande", "lucida sans unicode", lucida, helvetica, "Hiragino Sans
 
 // # Sidebar Background Gradient
 $gradient-start: #C2E987
-$gradient-end:   #309E85
+//$gradient-end:   #309E85
+$gradient-end:   #f7f7f7
 // $sidebar-bg: linear-gradient(136deg, $gradient-start, $gradient-end)
 
 $sidebar-bg: #474d57
-$sidebar-left-bg: #474d57
+//$sidebar-left-bg: #474d57
+$sidebar-left-bg: #24292e
 $sidebar-right-bg: #f7f7f7
 
 // # Sidebar Left
@@ -50,22 +52,24 @@ $sidebar-right-width: 360px
 
 // Search
 $search-box-height: 64px
-$search-box-font-size: 18px
+$search-box-font-size: 22px
 
-$search-box-color: #AAAAAA
-$search-box-placeholder: rgba(84, 84, 84, .7)
-$search-box-bg: #f7f7f7
+$search-box-color: #000
+$search-box-placeholder: rgba(84, 84, 84, .3)
+$search-box-bg: #fff
 
 // Toc
 $toc-color: #55606F
-$toc-bg: $tag-border-color
+//$toc-color: #fff
+$toc-bg: #fafbfc
 
 $toc-font-size: 16px
 $toc-line-height: 22px
 
 $toc-bullet-size: 18px
-$toc-bullet-unread: $gradient-end
-$toc-bullet-read: $toc-color
+$toc-bullet-unread: $toc-bg
+//$toc-bullet-read: $toc-color
+$toc-bullet-read: $toc-bg
 
 // # Sidebar width
 $sidebar-width: $sidebar-left-width + $sidebar-right-width
@@ -132,7 +136,7 @@ $post-toc-hover-color: #2EB695
 // # Customise webkit scrollbar
 
 $toc-scrollbar-width: 3px
-$toc-scrollbar-color: $gradient-end
+$toc-scrollbar-color: $toc-bg
 
 $code-scrollbar-height: 7px
 $code-scrollbar-color: $post-meta-color
