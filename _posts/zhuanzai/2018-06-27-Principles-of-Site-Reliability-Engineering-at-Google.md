@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2018-06-27-Principles-of-Site-Reliability-Engineering-at-Google.md
+title: Principles-of-Site-Reliability-Engineering-at-Google.md
 category: 转载
 tags: SRE,英文
 description: 2018-06-27-Principles-of-Site-Reliability-Engineering-at-Google.md
