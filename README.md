@@ -2,6 +2,13 @@
 
 地址：[https://laosijikaichele.github.io](https://laosijikaichele.github.io)
 
+### 在Gemfile里增加以下内容：
+
+```gem "jekyll-seo-tag"```   
+```gem "jekyll-feed" ```    
+```gem "jekyll-sitemap"```      
+
+
 ### 安装说明
 
 1. fork库到自己的github
